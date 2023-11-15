@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Endorsie
-- 👀 I’m interested in Computer
+- 👀 I’m interested in programming language
 - 🌱 I’m currently learning C Pmirer Plus
 
 <!---
