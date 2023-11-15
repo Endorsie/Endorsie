@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Endorsie
-- 👀 I’m interested in C
+- 👀 I’m interested in Computer
 - 🌱 I’m currently learning C Pmirer Plus
-- 📫 How to reach me ...
 
 <!---
 Endorsie/Endorsie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
