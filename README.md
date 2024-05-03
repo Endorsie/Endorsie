@@ -2,12 +2,11 @@
 
 ## 关于我
 - 📖 我的名字是Endorsie
-- 🌐 访问我的博客：www.endorsie.top
 - 📧 联系我：wyk@endorsie.top
 
 ## 共勉
 - 💻 我对编程语言充满热情
-- 🌱 我目前正在学习C Primer Plus
+- 🌱 我目前正在学习kotlin
 - 🤝 我希望能与大家一起进步，分享知识，共同成长
 
 <!---
